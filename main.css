@@ -29,7 +29,7 @@ footer{
 
 aside{
 	position:relative;
-	width:150px;
+	width:180px;
 	height:300px;
 }
 
@@ -48,11 +48,10 @@ a{
 	color:blue;
 }
 
-h1{
+.mainheader{
 	position:relative;
 	text-align:center;
-	margin-left:350px;
-	bottom:330px;
+	color:white;
 
 
 }
@@ -60,9 +59,24 @@ h1{
 .link_gape{
 	position:relative;
 	margin-bottom: 20px;
-	margin-left: 30px;
+	padding-left: 30px;
 	margin-top: 20px;
 
 }
 
+h2{
+	position:relative;
+	margin-top: -250px;
+	padding-left: 299px;
+
+}
+
+
+main{
+
+	position:relative;
+	margin-left: 300px;
+	text-align:center;
+
+}
 
