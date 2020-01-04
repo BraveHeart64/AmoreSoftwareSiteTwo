@@ -37,9 +37,9 @@ nav{
 	background-color:lightgrey;
 	border-style:solid;
 	border-width: 3px;
-	padding-top:30px;
+	padding-top:5px;
 	padding-bottom:10px;
-	height:400px;
+	height:420px;
 
 
 }
@@ -70,13 +70,20 @@ h2{
 	padding-left: 299px;
 
 }
+h1{
+	position:relative;
+	text-align:center;
+	
+
+}
 
 
 main{
 
 	position:relative;
-	margin-left: 300px;
-	text-align:center;
+	margin-left: 320px;
+	margin-top: -40px;
+	text-align:left;
 
 }
 

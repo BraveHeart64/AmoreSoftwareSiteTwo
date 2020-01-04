@@ -4,6 +4,14 @@
 
 }
 
+.row::after{
+	content: "";
+	clear: both;
+	display: table;
+
+
+}
+
 
 .row::after{
 	content: "";
