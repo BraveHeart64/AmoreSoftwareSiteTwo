@@ -88,8 +88,19 @@ main{
 }
 
 .custhead{
+	position:relative;
+	margin-right:35px;
 	font-size:35px;
 	font-weight: bold;
-	
+	float:right;
+
+}
+
+
+.mytile{
+	position:relative;
+	margin-right: 200px;
+font-size:35px;
+	font-weight: bold;
 
 }
