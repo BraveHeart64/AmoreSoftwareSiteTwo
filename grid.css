@@ -82,7 +82,7 @@
 
 /*
 Mobile screens 
-*/
+*//*
 @media only screen and(max-height: 600px){
 	[class*="col"]{
 
@@ -96,7 +96,7 @@ Mobile screens
 
 
 }
-
+*/
 .col12{
 		background-color:black;
 		width: 100%;
