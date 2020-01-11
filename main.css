@@ -39,7 +39,7 @@ nav{
 	border-width: 3px;
 	padding-top:5px;
 	padding-bottom:10px;
-	height:420px;
+	height:350px;
 
 
 }
@@ -51,14 +51,10 @@ a{
 .mainheader{
 	position:relative;
 	text-align:center;
-	width:100%;
 	color:white;
 
 
-
 }
-
-
 
 .link_gape{
 	position:relative;
@@ -80,7 +76,7 @@ h2{
 main{
 
 	position:relative;
-	margin-left: 770px;
+	margin-left: 320px;
 	margin-top: -300px;
 	
 
@@ -96,10 +92,18 @@ main{
 }
 
 
-.mytile{
+.mytitle{
 	position:relative;
 	margin-right: 200px;
 	font-size:35px;
 	font-weight: bold;
+
+}
+
+.smallform{
+	position:relative;
+	float:right;
+	padding-left:250px;
+
 
 }
