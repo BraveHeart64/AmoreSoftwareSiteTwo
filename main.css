@@ -40,35 +40,37 @@ nav{
 	padding-top:5px;
 	padding-bottom:10px;
 	height:350px;
-
-
 }
+
+
 
 a{
 	color:blue;
 }
 
+
+
 .mainheader{
 	position:relative;
 	text-align:center;
 	color:white;
-
-
 }
+
+
 
 .link_gape{
 	position:relative;
 	margin-bottom: 20px;
 	padding-left: 30px;
 	margin-top: 20px;
-
 }
+
+
 
 h2{
 	position:relative;
 	margin-top: -250px;
 	padding-left: 299px;
-
 }
 
 
@@ -78,9 +80,9 @@ main{
 	position:relative;
 	margin-left: 320px;
 	margin-top: -300px;
-	
-
 }
+
+
 
 .custhead{
 	position:relative;
@@ -97,13 +99,29 @@ main{
 	margin-right: 200px;
 	font-size:35px;
 	font-weight: bold;
-
 }
+
+
 
 .smallform{
 	position:relative;
 	float:right;
 	padding-left:250px;
 
+
+}
+@media only screen and (max-width: 600px){
+
+nav,aside{
+	display:none;
+	
+	}
+
+	main{
+		position:relative;
+		margin-left:100px;
+		margin-top: 40px;
+		width: 100%;
+	}
 
 }
